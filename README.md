@@ -13,9 +13,6 @@
 
 <p align="left">
   
-  <img src="https://media.giphy.com/media/nGq23uGZZiV6kuF5Na/giphy.gif"
-   min-width="375px" max-width="375px" width="375px" align="right">
-  
 <h3>Front-end </h3>
   <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"
