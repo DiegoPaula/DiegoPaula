@@ -7,7 +7,7 @@
 </p>
   
 - 💼 &nbsp; I'm looking for a frontend developer position.
-- 🌱 &nbsp; I'm currently learning **Vue.js** and plan to start with **Three.js** soon.
+- 🌱 &nbsp; I'm currently learning **Vue.js** and plan to start learning **Three.js** soon.
 
 <h3> 🚀 &nbsp;My Skills </h3>
 
