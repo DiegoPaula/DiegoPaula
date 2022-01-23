@@ -9,4 +9,4 @@
   
 
 - Estou estudando **React** durante o segundo round no **#100DaysOfCode**.
-- Estou na primeira semana do CS50W
+- Estou na quarta semana do CS50W
